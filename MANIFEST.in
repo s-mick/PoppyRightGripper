@@ -1,0 +1,2 @@
+include poppy_right_gripper/configuration/*.json
+include poppy_right_gripper/configuration/*.urdf
